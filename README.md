@@ -26,7 +26,9 @@ A looking trial presents visual stimuli one at a time and measures whether the c
 
 ## Quick start
 
-1. Open `index.html` in **Chrome or Edge** (the camera needs `https://` or `localhost`; the hosted GitHub Pages version works).
+1. Either:
+    - Visit https://stevesinky.github.io/look-log/
+    - Open `index.html` in **Chrome or Edge** (the camera needs `https://` or `localhost`; the hosted GitHub Pages version works).
 2. Add your images and tag each one (familiar face, unfamiliar face, object).
 3. Choose the conditions to run. Presets help: Quick screen, Colour set, Face features, Field map, Motion, Matched colour.
 4. Click **Enable camera** and check the preview.
